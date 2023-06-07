@@ -1,5 +1,6 @@
 # Search-App
-Bu proje, başka bir siteden aldığınız resimleri listeleyen ve kullanıcının istediği fotoğraf türünü arayabilmesine olanak tanıyan bir web sitesidir.
+Bu proje, resimleri listeleyen ve kullanıcının istediği fotoğraf türünü arayabilmesine olanak tanıyan bir web sitesidir.
+API, resimleri almak ve kullanıcının istediği fotoğraf türünü aramak için kullanılmaktadır.
 
 - Kullanıcılar fotoğraf türünü girebilir ve arama yapabilir.
 - Site, arama sonuçlarına göre ilgili fotoğrafları listeleyebilir.
