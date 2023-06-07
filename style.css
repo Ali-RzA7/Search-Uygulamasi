@@ -1,0 +1,58 @@
+body {
+    background-color:lightgray;
+}
+
+
+
+.form-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 40px 0px;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#searchInput{
+    width: 75%;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: black;
+    text-align: center;
+}
+
+.button-wrapper{
+    margin: 20px 0px;
+
+}
+
+#searchButton{
+    width: 120px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 2px 3px 7px darkblue;
+}
+
+#clearButton{
+    width: 120px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 2px 3px 7px red;
+    margin-left: 50px;
+}
+
+.imagelist-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.imagelist-wrapper > .card{
+    margin: 20px;
+    box-shadow: 2px 3px 15px black;
+}
